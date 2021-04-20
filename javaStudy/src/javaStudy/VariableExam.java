@@ -1,4 +1,4 @@
-package jacaStudy;
+package javaStudy;
 
 public class VariableExam {
 
