@@ -12,6 +12,6 @@ public static void main(String[] args) {
 	
 	System.out.println(array3[3]);
 	int value = array3[0];
-	System.out.println(value);
+	System.out.println(value); 
 }
 }
